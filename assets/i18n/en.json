@@ -1,0 +1,27 @@
+{
+  "main": {
+    "darkTheme": "Dark Theme",
+    "lightTheme": "Light Theme",
+    "connexion": "Connexion",
+    "cancel": "Cancel"
+  },
+  "menu": {
+    "home": "Home",
+    "rules": "Game Rules",
+    "caracters": "Caracters",
+    "bestiary": "Bestiary",
+    "power_help": "Build your power",
+    "history": "World's history",
+    "geography": "Neü Terra's geography",
+    "news": "News"
+  },
+  "connexion": {
+    "connect": "Connect",
+    "username": "username",
+    "password": "password",
+    "description": "welcome to administrator interface. To continue further please identify yourself."
+  },
+  "home": {
+      "welcome": "Welcome on Base Angular"
+  }
+}

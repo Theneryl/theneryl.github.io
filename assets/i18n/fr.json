@@ -1,0 +1,27 @@
+{
+  "main": {
+    "darkTheme": "Theme Sombre",
+    "lightTheme": "Theme Clair",
+    "connexion": "Connection",
+    "cancel": "Annuler"
+  },
+  "menu": {
+    "home": "Accueil",
+    "rules": "Règle du jeu",
+    "caracters": "Personnages",
+    "bestiary": "Bestiaire",
+    "power_help": "Créez votre pouvoir",
+    "history": "Histoire du monde",
+    "geography": "Geographie de Neü Terra",
+    "news": "News"
+  },
+  "connexion": {
+    "connect": "Connecter",
+    "username": "identifiant",
+    "password": "mot de passe",
+    "description": "Bienvenu sur l'interface d'administration. Avant de continer plus avant, veuillez vous identifier."
+  },
+  "home": {
+      "welcome": "Bienvenu sur Base Angular"
+  }
+}
